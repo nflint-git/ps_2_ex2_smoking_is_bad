@@ -1,0 +1,7 @@
+name: smoke
+dependencies:
+    - python=3.11
+    - pandas
+    - matplotlib
+    - numpy 
+    - seaborn
